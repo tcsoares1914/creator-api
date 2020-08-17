@@ -1,4 +1,4 @@
-## SKELETON-API
+## CREATOR-API
 
 ### Stack
 - PHP 7.4
